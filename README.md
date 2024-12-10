@@ -61,6 +61,8 @@ Ce projet simule la gestion d’un système de livraison de colis en intégrant 
 - **Sémaphores** : Limitent le nombre de threads pouvant accéder à une ressource donnée.
 - **Moniteurs** : Empêchent les accès simultanés conflictuels aux données partagées.
 
+## Photos
+Voici quelques captures d'écran du projet :
 ![Capture d’écran 2024-12-10 124227](https://github.com/user-attachments/assets/7fedf125-643e-45ae-95d2-06180728ccd6)
 ![Capture d’écran 2024-12-10 124321](https://github.com/user-attachments/assets/edc6009a-329a-4a26-86b1-c196c0a8b376)
 ![Capture d’écran 2024-12-10 124300](https://github.com/user-attachments/assets/ea7186cf-0239-4cca-9be4-fad6e6acf23d)
